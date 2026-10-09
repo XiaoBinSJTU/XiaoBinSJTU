@@ -28,22 +28,22 @@ I am seeking **postdoctoral research opportunities starting in the second half o
 
 ### Peer-Reviewed Publications
 
-**[0] Digital twin modeling**  
+**[1] Digital twin modeling**  
 F. Tao, **B. Xiao**, Q. Qi, J. Cheng, and P. Ji. *Journal of Manufacturing Systems*, 64, 372–389 (2022).  
 **Second author (first student author)** · JCR Q1 · Reported IF: 14.9 · [DOI](https://doi.org/10.1016/j.jmsy.2022.06.015)  
 A systematic review of digital twin modeling across construction, assembly, fusion, verification, modification, and management.
 
-**[1] Multi-dimensional modeling and abnormality handling of digital twin shop floor**  
+**[2] Multi-dimensional modeling and abnormality handling of digital twin shop floor**  
 **B. Xiao**, Q. Qi, and F. Tao. *Journal of Industrial Information Integration*, 35, 100492 (2023).  
 **First author** · JCR Q1 · Reported IF: 11.2 · [DOI](https://doi.org/10.1016/j.jii.2023.100492)  
 Model reuse-based geometric modeling, equipment behavior modeling, and production abnormality handling.
 
-**[2] Digital twin-driven prognostics and health management for industrial assets**  
+**[3] Digital twin-driven prognostics and health management for industrial assets**  
 **B. Xiao**, J. Zhong, X. Bao, L. Chen, J. Bao, and Y. Zheng. *Scientific Reports*, 14, 13443 (2024).  
 **First author** · JCR Q1 · Reported IF: 4.9 · [DOI](https://doi.org/10.1038/s41598-024-63990-0)  
 A review of DT-driven PHM across application, theory, and implementation layers.
 
-**[3] Model updating approach for digital twin-driven industrial equipment monitoring**  
+**[4] Model updating approach for digital twin-driven industrial equipment monitoring**  
 **B. Xiao**, L. Chen, X. Zhou, J. Zhong, Z. Wang, S. Qiu, and Y. Zheng. *Advanced Engineering Informatics*, 74, 104678 (2026).  
 **First author** · JCR Q1 · Reported IF: 11.2 · [DOI](https://doi.org/10.1016/j.aei.2026.104678)  
 Degradation-aware update decisions and coordinated updates of mechanism, geometric, and algorithm models.
@@ -52,16 +52,16 @@ Degradation-aware update decisions and coordinated updates of mechanism, geometr
 
 The following manuscripts are **under review and are not yet accepted or published**.
 
-**[4] Steady-state spatial guided spatiotemporal hypergraph data fusion for digital twin monitoring of industrial equipment under harsh operating conditions**  
-**B. Xiao** et al. · Submitted to *Mechanical Systems and Signal Processing* · **Under review**  
+**[5] Steady-state spatial guided spatiotemporal hypergraph data fusion for digital twin monitoring of industrial equipment under harsh operating conditions**  
+**B. Xiao** et al. · Submitted to *Mechanical Systems and Signal Processing* (JCR Q1 | IF: 10.2) · **Under Review**  
 Steady-state spatial topology-guided hypergraph fusion for robust anomaly monitoring.
 
-**[5] Digital twin spatiotemporal graph fusion modeling for low-quality multi-view equipment monitoring under harsh operating conditions**  
-**B. Xiao** et al. · Submitted to *Advanced Engineering Informatics* · **Under review**  
+**[6] Digital twin spatiotemporal graph fusion modeling for low-quality multi-view equipment monitoring under harsh operating conditions**  
+**B. Xiao** et al. · Submitted to *Advanced Engineering Informatics* (JCR Q1 | IF: 11.2) · **Under Review**  
 Quality-aware multi-view representation learning and physical-constraint-guided directed hypergraph fusion.
 
-**[6] Digital twin hypergraph cascade modeling for end-effector slag removal decisions in steelmaking slag-handling robots**  
-**B. Xiao** et al. · Submitted to *Robotics and Computer-Integrated Manufacturing* · **Under review**  
+**[7] Digital twin hypergraph cascade modeling for end-effector slag removal decisions in steelmaking slag-handling robots**  
+**B. Xiao** et al. · Submitted to *Robotics and Computer-Integrated Manufacturing* (JCR Q1 | IF: 12.3) · **Under Review**  
 Part-, module-, and system-level hypergraph reasoning for explainable slag-removal decisions.
 
 *Journal indicators reflect the values supplied for October 2026 and may change by reporting year. Manuscript statuses will be updated as editorial decisions become available.*
