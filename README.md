@@ -35,9 +35,9 @@ I am seeking **postdoctoral research opportunities starting in the second half o
 F. Tao, **B. Xiao**, Q. Qi, J. Cheng, and P. Ji. *Journal of Manufacturing Systems*, 64, 372–389 (2022).  
 **Second author (first student author)** · JCR Q1 · Reported IF: 14.9
 
-<a href="assets/graphical-abstracts/01-digital-twin-modeling.png"><img src="assets/graphical-abstracts/01-digital-twin-modeling.png" alt="Graphical abstract for publication 1" width="720"></a>
+<a href="assets/graphical-abstracts/01-digital-twin-modeling.svg"><img src="assets/graphical-abstracts/01-digital-twin-modeling.svg" alt="Graphical abstract for publication 1" width="720"></a>
 
-[View full-resolution Graphical Abstract](assets/graphical-abstracts/01-digital-twin-modeling.png)
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/01-digital-twin-modeling.svg)
 
 **Research Highlights**  
 This review examines the modeling foundations that enable digital twins to represent physical entities and deliver monitoring, simulation, prediction, and optimization services. It compares digital twin models across application fields, system hierarchies, disciplines, dimensions, universality, and functionality, then organizes the literature around six modeling activities: construction, assembly, fusion, verification, modification, and management. It also surveys enabling technologies and tools.
@@ -49,9 +49,9 @@ This review examines the modeling foundations that enable digital twins to repre
 **B. Xiao**, Q. Qi, and F. Tao. *Journal of Industrial Information Integration*, 35, 100492 (2023).  
 **First author** · JCR Q1 · Reported IF: 11.2
 
-<a href="assets/graphical-abstracts/02-shopfloor-modeling-abnormality.png"><img src="assets/graphical-abstracts/02-shopfloor-modeling-abnormality.png" alt="Graphical abstract for publication 2" width="720"></a>
+<a href="assets/graphical-abstracts/02-shopfloor-modeling-abnormality.svg"><img src="assets/graphical-abstracts/02-shopfloor-modeling-abnormality.svg" alt="Graphical abstract for publication 2" width="720"></a>
 
-[View full-resolution Graphical Abstract](assets/graphical-abstracts/02-shopfloor-modeling-abnormality.png)
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/02-shopfloor-modeling-abnormality.svg)
 
 **Research Highlights**  
 This research develops a multidimensional digital twin shop-floor framework that links geometric models, equipment behavior, and production abnormality handling. Existing 3D models are reused through semantic representation, matching, adaptive modification, and assembly. Equipment actions and states are connected using labeled Petri nets to detect abnormalities, localize affected behaviors, and guide production recovery. The approach is demonstrated in an aerospace product assembly shop-floor case.
@@ -67,9 +67,9 @@ This research develops a multidimensional digital twin shop-floor framework that
 **B. Xiao**, J. Zhong, X. Bao, L. Chen, J. Bao, and Y. Zheng. *Scientific Reports*, 14, 13443 (2024).  
 **First author** · JCR Q1 · Reported IF: 4.9
 
-<a href="assets/graphical-abstracts/03-dt-phm-review.png"><img src="assets/graphical-abstracts/03-dt-phm-review.png" alt="Graphical abstract for publication 3" width="720"></a>
+<a href="assets/graphical-abstracts/03-dt-phm-review.svg"><img src="assets/graphical-abstracts/03-dt-phm-review.svg" alt="Graphical abstract for publication 3" width="720"></a>
 
-[View full-resolution Graphical Abstract](assets/graphical-abstracts/03-dt-phm-review.png)
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/03-dt-phm-review.svg)
 
 **Research Highlights**  
 This review systematically organizes digital twin-driven prognostics and health management (DT-PHM) for industrial assets. It examines where DT-PHM is applied across industries and asset hierarchies, explains its theoretical mechanisms for fault diagnosis, health assessment, and prognostics, and surveys implementation technologies for sensing, digital twin modeling, algorithms, and platforms. It also identifies open challenges and future directions for reliable industrial maintenance.
@@ -81,9 +81,9 @@ This review systematically organizes digital twin-driven prognostics and health 
 **B. Xiao**, L. Chen, X. Zhou, J. Zhong, Z. Wang, S. Qiu, and Y. Zheng. *Advanced Engineering Informatics*, 74, 104678 (2026).  
 **First author** · JCR Q1 · Reported IF: 11.2
 
-<a href="assets/graphical-abstracts/04-dt-model-updating.png"><img src="assets/graphical-abstracts/04-dt-model-updating.png" alt="Graphical abstract for publication 4" width="720"></a>
+<a href="assets/graphical-abstracts/04-dt-model-updating.svg"><img src="assets/graphical-abstracts/04-dt-model-updating.svg" alt="Graphical abstract for publication 4" width="720"></a>
 
-[View full-resolution Graphical Abstract](assets/graphical-abstracts/04-dt-model-updating.png)
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/04-dt-model-updating.svg)
 
 **Research Highlights**  
 This work proposes proactive degradation-aware model update decisions and coordinated updates of digital twin mechanism, geometric, and algorithm models. Global tracking degradation and local mechanism changes jointly trigger updates, while geometric corrections and retrained algorithm components maintain model consistency. In a belt conveyor bearing case, the approach reported 24.7-hour early warning, 40% lower tracking error, and 96% fault-detection AUC.
@@ -103,16 +103,16 @@ The following manuscripts have been submitted to the journals indicated; **they 
 **B. Xiao**, L. Chen, Y. Zheng, S. Qiu, and J. Bao. *Manuscript submitted to Mechanical Systems and Signal Processing*.  
 **First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 10.2
 
-<a href="assets/graphical-abstracts/05-steady-state-mssp-framework.png"><img src="assets/graphical-abstracts/05-steady-state-mssp-framework.png" alt="Graphical abstract for publication 5" width="720"></a>
+<a href="assets/graphical-abstracts/05-steady-state-mssp-framework.svg"><img src="assets/graphical-abstracts/05-steady-state-mssp-framework.svg" alt="Graphical abstract for publication 5" width="720"></a>
 
-[View full-resolution Graphical Abstract](assets/graphical-abstracts/05-steady-state-mssp-framework.png)
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/05-steady-state-mssp-framework.svg)
 
 <details>
 <summary>View supporting research figure</summary>
 
-<a href="assets/graphical-abstracts/05-steady-state-mssp-challenges.png"><img src="assets/graphical-abstracts/05-steady-state-mssp-challenges.png" alt="Supporting figure for publication 5" width="720"></a>
+<a href="assets/graphical-abstracts/05-steady-state-mssp-challenges.svg"><img src="assets/graphical-abstracts/05-steady-state-mssp-challenges.svg" alt="Supporting figure for publication 5" width="720"></a>
 
-[Open full-resolution supporting figure](assets/graphical-abstracts/05-steady-state-mssp-challenges.png)
+[Open full-resolution supporting figure](assets/graphical-abstracts/05-steady-state-mssp-challenges.svg)
 
 </details>
 
@@ -128,16 +128,16 @@ This study addresses noisy monitoring in harsh steel-rolling environments throug
 **B. Xiao**, L. Chen, Y. Zheng, and J. Bao. *Manuscript submitted to Advanced Engineering Informatics*.  
 **First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 11.2
 
-<a href="assets/graphical-abstracts/06-dtsgfm-framework.png"><img src="assets/graphical-abstracts/06-dtsgfm-framework.png" alt="Graphical abstract for publication 6" width="720"></a>
+<a href="assets/graphical-abstracts/06-dtsgfm-framework.svg"><img src="assets/graphical-abstracts/06-dtsgfm-framework.svg" alt="Graphical abstract for publication 6" width="720"></a>
 
-[View full-resolution Graphical Abstract](assets/graphical-abstracts/06-dtsgfm-framework.png)
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/06-dtsgfm-framework.svg)
 
 <details>
 <summary>View supporting research figure</summary>
 
-<a href="assets/graphical-abstracts/06-dtsgfm-disturbance.png"><img src="assets/graphical-abstracts/06-dtsgfm-disturbance.png" alt="Supporting figure for publication 6" width="720"></a>
+<a href="assets/graphical-abstracts/06-dtsgfm-disturbance.svg"><img src="assets/graphical-abstracts/06-dtsgfm-disturbance.svg" alt="Supporting figure for publication 6" width="720"></a>
 
-[Open full-resolution supporting figure](assets/graphical-abstracts/06-dtsgfm-disturbance.png)
+[Open full-resolution supporting figure](assets/graphical-abstracts/06-dtsgfm-disturbance.svg)
 
 </details>
 
@@ -153,16 +153,16 @@ This work develops Digital Twin Spatiotemporal Graph Fusion Modeling (DTSGFM) fo
 **B. Xiao**, L. Chen, Y. Zheng, and J. Bao. *Manuscript submitted to Robotics and Computer-Integrated Manufacturing*.  
 **First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 12.3
 
-<a href="assets/graphical-abstracts/07-rcim-cascade-framework.png"><img src="assets/graphical-abstracts/07-rcim-cascade-framework.png" alt="Graphical abstract for publication 7" width="720"></a>
+<a href="assets/graphical-abstracts/07-rcim-cascade-framework.svg"><img src="assets/graphical-abstracts/07-rcim-cascade-framework.svg" alt="Graphical abstract for publication 7" width="720"></a>
 
-[View full-resolution Graphical Abstract](assets/graphical-abstracts/07-rcim-cascade-framework.png)
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/07-rcim-cascade-framework.svg)
 
 <details>
 <summary>View supporting research figure</summary>
 
-<a href="assets/graphical-abstracts/07-rcim-robot-degradation.png"><img src="assets/graphical-abstracts/07-rcim-robot-degradation.png" alt="Supporting figure for publication 7" width="720"></a>
+<a href="assets/graphical-abstracts/07-rcim-robot-degradation.svg"><img src="assets/graphical-abstracts/07-rcim-robot-degradation.svg" alt="Supporting figure for publication 7" width="720"></a>
 
-[Open full-resolution supporting figure](assets/graphical-abstracts/07-rcim-robot-degradation.png)
+[Open full-resolution supporting figure](assets/graphical-abstracts/07-rcim-robot-degradation.svg)
 
 </details>
 
