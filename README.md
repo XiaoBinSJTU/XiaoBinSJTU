@@ -26,45 +26,154 @@ I am seeking **postdoctoral research opportunities starting in the second half o
 
 ## Publications
 
+**Seven research works:** four peer-reviewed publications and three manuscripts under review. Click each Graphical Abstract for the full-resolution figure. Method-oriented code repositories will be linked here after they are created and cleared for public distribution.
+
 ### Peer-Reviewed Publications
 
-**[1] Digital twin modeling**  
+#### [1] Digital twin modeling
+
 F. Tao, **B. Xiao**, Q. Qi, J. Cheng, and P. Ji. *Journal of Manufacturing Systems*, 64, 372–389 (2022).  
-**Second author (first student author)** · JCR Q1 · Reported IF: 14.9 · [DOI](https://doi.org/10.1016/j.jmsy.2022.06.015)  
-A systematic review of digital twin modeling across construction, assembly, fusion, verification, modification, and management.
+**Second author (first student author)** · JCR Q1 · Reported IF: 14.9
 
-**[2] Multi-dimensional modeling and abnormality handling of digital twin shop floor**  
+<a href="assets/graphical-abstracts/01-digital-twin-modeling.png"><img src="assets/graphical-abstracts/01-digital-twin-modeling.png" alt="Graphical abstract for publication 1" width="720"></a>
+
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/01-digital-twin-modeling.png)
+
+**Research Highlights**  
+This review examines the modeling foundations that enable digital twins to represent physical entities and deliver monitoring, simulation, prediction, and optimization services. It compares digital twin models across application fields, system hierarchies, disciplines, dimensions, universality, and functionality, then organizes the literature around six modeling activities: construction, assembly, fusion, verification, modification, and management. It also surveys enabling technologies and tools.
+
+**Paper:** [Read the published article](https://doi.org/10.1016/j.jmsy.2022.06.015)
+
+#### [2] Multi-dimensional modeling and abnormality handling of digital twin shop floor
+
 **B. Xiao**, Q. Qi, and F. Tao. *Journal of Industrial Information Integration*, 35, 100492 (2023).  
-**First author** · JCR Q1 · Reported IF: 11.2 · [DOI](https://doi.org/10.1016/j.jii.2023.100492)  
-Model reuse-based geometric modeling, equipment behavior modeling, and production abnormality handling.
+**First author** · JCR Q1 · Reported IF: 11.2
 
-**[3] Digital twin-driven prognostics and health management for industrial assets**  
+<a href="assets/graphical-abstracts/02-shopfloor-modeling-abnormality.png"><img src="assets/graphical-abstracts/02-shopfloor-modeling-abnormality.png" alt="Graphical abstract for publication 2" width="720"></a>
+
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/02-shopfloor-modeling-abnormality.png)
+
+**Research Highlights**  
+This research develops a multidimensional digital twin shop-floor framework that links geometric models, equipment behavior, and production abnormality handling. Existing 3D models are reused through semantic representation, matching, adaptive modification, and assembly. Equipment actions and states are connected using labeled Petri nets to detect abnormalities, localize affected behaviors, and guide production recovery. The approach is demonstrated in an aerospace product assembly shop-floor case.
+
+**Experimental context:** Aerospace product assembly shop-floor modeling, AGV behavior representation, and abnormality localization.
+
+**Core implementation:** Repository link will be added when the public code is available; this is not a claim of full experiment reproducibility.
+
+**Paper:** [Read the published article](https://doi.org/10.1016/j.jii.2023.100492)
+
+#### [3] Digital twin-driven prognostics and health management for industrial assets
+
 **B. Xiao**, J. Zhong, X. Bao, L. Chen, J. Bao, and Y. Zheng. *Scientific Reports*, 14, 13443 (2024).  
-**First author** · JCR Q1 · Reported IF: 4.9 · [DOI](https://doi.org/10.1038/s41598-024-63990-0)  
-A review of DT-driven PHM across application, theory, and implementation layers.
+**First author** · JCR Q1 · Reported IF: 4.9
 
-**[4] Model updating approach for digital twin-driven industrial equipment monitoring**  
+<a href="assets/graphical-abstracts/03-dt-phm-review.png"><img src="assets/graphical-abstracts/03-dt-phm-review.png" alt="Graphical abstract for publication 3" width="720"></a>
+
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/03-dt-phm-review.png)
+
+**Research Highlights**  
+This review systematically organizes digital twin-driven prognostics and health management (DT-PHM) for industrial assets. It examines where DT-PHM is applied across industries and asset hierarchies, explains its theoretical mechanisms for fault diagnosis, health assessment, and prognostics, and surveys implementation technologies for sensing, digital twin modeling, algorithms, and platforms. It also identifies open challenges and future directions for reliable industrial maintenance.
+
+**Paper:** [Read the published article](https://doi.org/10.1038/s41598-024-63990-0)
+
+#### [4] Model updating approach for digital twin-driven industrial equipment monitoring
+
 **B. Xiao**, L. Chen, X. Zhou, J. Zhong, Z. Wang, S. Qiu, and Y. Zheng. *Advanced Engineering Informatics*, 74, 104678 (2026).  
-**First author** · JCR Q1 · Reported IF: 11.2 · [DOI](https://doi.org/10.1016/j.aei.2026.104678)  
-Degradation-aware update decisions and coordinated updates of mechanism, geometric, and algorithm models.
+**First author** · JCR Q1 · Reported IF: 11.2
+
+<a href="assets/graphical-abstracts/04-dt-model-updating.png"><img src="assets/graphical-abstracts/04-dt-model-updating.png" alt="Graphical abstract for publication 4" width="720"></a>
+
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/04-dt-model-updating.png)
+
+**Research Highlights**  
+This work proposes proactive degradation-aware model update decisions and coordinated updates of digital twin mechanism, geometric, and algorithm models. Global tracking degradation and local mechanism changes jointly trigger updates, while geometric corrections and retrained algorithm components maintain model consistency. In a belt conveyor bearing case, the approach reported 24.7-hour early warning, 40% lower tracking error, and 96% fault-detection AUC.
+
+**Experimental context:** Industrial belt conveyor bearing monitoring and multidimensional digital twin update validation.
+
+**Core implementation:** Repository link will be added when the public code is available; this is not a claim of full experiment reproducibility.
+
+**Paper:** [Read the published article](https://doi.org/10.1016/j.aei.2026.104678)
 
 ### Manuscripts Under Review
 
-The following manuscripts are **under review and are not yet accepted or published**.
+The following manuscripts have been submitted to the journals indicated; **they are not accepted or published**. JCR quartiles and impact factors refer only to the **target journals**.
 
-**[5] Steady-state spatial guided spatiotemporal hypergraph data fusion for digital twin monitoring of industrial equipment under harsh operating conditions**  
-**B. Xiao** et al. · Submitted to *Mechanical Systems and Signal Processing* (JCR Q1 | IF: 10.2) · **Under Review**  
-Steady-state spatial topology-guided hypergraph fusion for robust anomaly monitoring.
+#### [5] Steady-state spatial guided spatiotemporal hypergraph data fusion for digital twin monitoring of industrial equipment under harsh operating conditions
 
-**[6] Digital twin spatiotemporal graph fusion modeling for low-quality multi-view equipment monitoring under harsh operating conditions**  
-**B. Xiao** et al. · Submitted to *Advanced Engineering Informatics* (JCR Q1 | IF: 11.2) · **Under Review**  
-Quality-aware multi-view representation learning and physical-constraint-guided directed hypergraph fusion.
+**B. Xiao**, L. Chen, Y. Zheng, S. Qiu, and J. Bao. *Manuscript submitted to Mechanical Systems and Signal Processing*.  
+**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 10.2
 
-**[7] Digital twin hypergraph cascade modeling for end-effector slag removal decisions in steelmaking slag-handling robots**  
-**B. Xiao** et al. · Submitted to *Robotics and Computer-Integrated Manufacturing* (JCR Q1 | IF: 12.3) · **Under Review**  
-Part-, module-, and system-level hypergraph reasoning for explainable slag-removal decisions.
+<a href="assets/graphical-abstracts/05-steady-state-mssp-framework.png"><img src="assets/graphical-abstracts/05-steady-state-mssp-framework.png" alt="Graphical abstract for publication 5" width="720"></a>
 
-*Journal indicators reflect the values supplied for October 2026 and may change by reporting year. Manuscript statuses will be updated as editorial decisions become available.*
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/05-steady-state-mssp-framework.png)
+
+<details>
+<summary>View supporting research figure</summary>
+
+<a href="assets/graphical-abstracts/05-steady-state-mssp-challenges.png"><img src="assets/graphical-abstracts/05-steady-state-mssp-challenges.png" alt="Supporting figure for publication 5" width="720"></a>
+
+[Open full-resolution supporting figure](assets/graphical-abstracts/05-steady-state-mssp-challenges.png)
+
+</details>
+
+**Research Highlights**  
+This study addresses noisy monitoring in harsh steel-rolling environments through steady-state spatial guided spatiotemporal hypergraph fusion. Heterogeneous sensors and physically grounded hyperedges encode fault coordination, subsystem propagation, and response coherence. Spatial topology features guide cross-attention screening and residual correction of short- and long-term temporal signals. Experiments on rolling-mill drives and public datasets evaluate anomaly monitoring robustness against transient disturbances.
+
+**Experimental context:** φ650 hot-rolling main-drive motor and five public industrial datasets.
+
+**Core implementation:** Repository link will be added when the public code is available; this is not a claim of full experiment reproducibility.
+
+#### [6] Digital twin spatiotemporal graph fusion modeling for low-quality multi-view equipment monitoring under harsh operating conditions
+
+**B. Xiao**, L. Chen, Y. Zheng, and J. Bao. *Manuscript submitted to Advanced Engineering Informatics*.  
+**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 11.2
+
+<a href="assets/graphical-abstracts/06-dtsgfm-framework.png"><img src="assets/graphical-abstracts/06-dtsgfm-framework.png" alt="Graphical abstract for publication 6" width="720"></a>
+
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/06-dtsgfm-framework.png)
+
+<details>
+<summary>View supporting research figure</summary>
+
+<a href="assets/graphical-abstracts/06-dtsgfm-disturbance.png"><img src="assets/graphical-abstracts/06-dtsgfm-disturbance.png" alt="Supporting figure for publication 6" width="720"></a>
+
+[Open full-resolution supporting figure](assets/graphical-abstracts/06-dtsgfm-disturbance.png)
+
+</details>
+
+**Research Highlights**  
+This work develops Digital Twin Spatiotemporal Graph Fusion Modeling (DTSGFM) for low-quality multi-view monitoring. Angle-domain alignment, quality-aware masked pretraining, and delay-aware correspondence stabilize heterogeneous sensor states. A physically constrained directed hypergraph combines Bayesian relation confidence with topology-consistency correction to limit disturbance propagation. Evaluations under compound degradation, missing views, and cross-equipment transfer assess robust monitoring and adaptability.
+
+**Experimental context:** Multi-view steel hot-rolling drives; controlled noise, drift, missing-view, and alignment degradation.
+
+**Core implementation:** Repository link will be added when the public code is available; this is not a claim of full experiment reproducibility.
+
+#### [7] Digital twin hypergraph cascade modeling for end-effector slag removal decisions in steelmaking slag-handling robots
+
+**B. Xiao**, L. Chen, Y. Zheng, and J. Bao. *Manuscript submitted to Robotics and Computer-Integrated Manufacturing*.  
+**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 12.3
+
+<a href="assets/graphical-abstracts/07-rcim-cascade-framework.png"><img src="assets/graphical-abstracts/07-rcim-cascade-framework.png" alt="Graphical abstract for publication 7" width="720"></a>
+
+[View full-resolution Graphical Abstract](assets/graphical-abstracts/07-rcim-cascade-framework.png)
+
+<details>
+<summary>View supporting research figure</summary>
+
+<a href="assets/graphical-abstracts/07-rcim-robot-degradation.png"><img src="assets/graphical-abstracts/07-rcim-robot-degradation.png" alt="Supporting figure for publication 7" width="720"></a>
+
+[Open full-resolution supporting figure](assets/graphical-abstracts/07-rcim-robot-degradation.png)
+
+</details>
+
+**Research Highlights**  
+This study models how slag adhesion at a steelmaking robot end effector propagates into multilevel equipment-state changes. At the part level, multi-view hypergraphs fuse sensor responses; at the module level, physics-semantic hypergraphs propagate coupled states; at the system level, diagnostic knowledge hypergraphs produce traceable slag-removal decisions. The reported results include 91.2% offline decision accuracy and 92.7% online event-level F1.
+
+**Experimental context:** Steelmaking slag-handling robot operations with offline and online decision evaluation.
+
+**Core implementation:** Repository link will be added when the public code is available; this is not a claim of full experiment reproducibility.
+
+*Journal indicators use values reported for October 8, 2026 and may change by reporting year. Under-review manuscripts should not be cited as published work. For public code repositories, raw industrial datasets and complete experimental outputs may be unavailable because of access restrictions. Graphical abstracts and selected research figures are overview materials, not code or reproducibility claims.*
 
 ## Research Projects
 
@@ -103,4 +212,4 @@ Research on equipment digital twin modeling, model adaptation, automated model g
 
 For academic collaboration or postdoctoral opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/bin-xiao-b00195359/).
 
-*Full graphical abstracts, additional research figures, and an academic CV will be hosted on my forthcoming personal academic website.*
+*All seven graphical abstracts are showcased directly in this GitHub profile. Supporting figures and future public core-code repositories will be linked to their corresponding research works. An academic CV and additional research materials may be added later.*
