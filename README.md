@@ -2,9 +2,9 @@
 
 **Ph.D. Researcher in Mechanical Engineering | Shanghai Jiao Tong University**
 
-**Research:** Digital Twins · Physics-Guided AI · Graph & Hypergraph Learning · Intelligent Manufacturing · Industrial Prognostics and Health Management (PHM)
+Shanghai, China · [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) · [GitHub](https://github.com/XiaoBinSJTU) · [LinkedIn](https://www.linkedin.com/in/bin-xiao-b00195359/)
 
-[LinkedIn](https://www.linkedin.com/in/bin-xiao-b00195359/) · [Publications](#publications) · [Research Projects](#research-projects)
+[Research Profile](#research-profile) · [Education](#education) · [Publications](#publications) · [Research Projects](#research-projects) · [Patents & Software Copyrights](#patent-applications--software-copyrights)
 
 ---
 
@@ -12,17 +12,28 @@
 
 I am a Ph.D. researcher in Mechanical Engineering at **Shanghai Jiao Tong University**, expecting to graduate in **March 2027**. I earned a Master's degree in Control Engineering from **Beihang University** and a Bachelor's degree in Automation from **Anhui Polytechnic University**.
 
-My work connects **digital twin modeling, physics-guided artificial intelligence, graph and hypergraph learning, and intelligent manufacturing**, with particular emphasis on industrial equipment monitoring, PHM, and intelligent maintenance.
-
 I am seeking **postdoctoral research opportunities starting in the second half of 2027**, primarily in the **United States**, while also considering opportunities in the **United Kingdom**. I welcome international academic collaborations.
 
-## Research Interests
+## Research Profile
 
-- **Digital twins:** Multidimensional modeling, model updating, and physical–virtual synchronization
-- **Physics-guided AI:** Mechanism-informed machine learning and robust industrial monitoring
-- **Graph and hypergraph learning:** Spatiotemporal fusion, cross-view learning, and state propagation
-- **Intelligent manufacturing:** Digital twin shop floors, production abnormality handling, and industrial PHM
-- **Explainable maintenance:** Equipment health assessment and industrial robot decision support
+1. **Digital Twin-Based Model Updating:** Model reuse and coordinated updates of mechanism, geometric, and algorithm models.
+2. **Physics-Guided Hypergraph Fusion:** Robust spatiotemporal multi-sensor fusion under harsh industrial conditions.
+3. **PHM-Oriented Equipment Monitoring:** Anomaly detection, health assessment, degradation prediction, and intelligent maintenance.
+4. **Digital Twin-Driven Manufacturing Decisions:** Shop-floor abnormality handling and multilevel hypergraph reasoning for robotic slag removal.
+
+## Education
+
+**Shanghai Jiao Tong University**, Ph.D. in Mechanical Engineering | Apr 2023–Mar 2027 (expected)  
+**Advisor:** [Prof. Yu Zheng](https://me.sjtu.edu.cn/en/FullTimeTeacher/zhengyu.html) | [Google Scholar](https://scholar.google.com/citations?user=jeQjSFEAAAAJ&hl=zh-CN)
+
+**Beihang University**, M.Eng. in Control Engineering | Sep 2020–Jan 2023  
+**Advisor:** [Prof. Fei Tao](https://shi.buaa.edu.cn/taofei/en/index.htm) | [Google Scholar](https://scholar.google.com/citations?user=-LQGKncAAAAJ&hl=en)
+
+**Anhui Polytechnic University**, B.Eng. in Automation | Sep 2016–Jun 2020  
+**Advisor:** [Prof. Huacai Lu](https://sciprofiles.com/profile/1495187) | [ResearchGate](https://www.researchgate.net/scientific-contributions/Hua-Cai-Lu-2025145043)  
+**Undergraduate Honor:** National Scholarship, Ministry of Education of the People's Republic of China (2017–2018 academic year; awarded Dec 20, 2018).
+
+**English Proficiency:** [Shanghai Intermediate-Level English Interpretation Certificate](http://www.shwyky.net/portal/) (Jun 2018); [Shanghai Advanced-Level English Interpretation Examination](http://www.shwyky.net/portal/) (Fall 2018).
 
 ## Publications
 
@@ -158,23 +169,16 @@ Worked on neural rendering, cross-modal semantic alignment, transfer learning, a
 *Digital Twin Modeling Methods and Automated Model Generation for Equipment Anomaly Monitoring*  
 Research on equipment digital twin modeling, model adaptation, automated model generation, and robust anomaly monitoring.
 
-## Education
+## Patent Applications & Software Copyrights
 
-| Degree | Institution | Period |
-| --- | --- | --- |
-| Ph.D., Mechanical Engineering | Shanghai Jiao Tong University | Apr 2023 – Mar 2027 (expected) |
-| Master's, Control Engineering | Beihang University | Sep 2020 – Jan 2023 |
-| Bachelor's, Automation | Anhui Polytechnic University | Sep 2016 – Jun 2020 |
+1. Q. Qi, **B. Xiao**, Y. Cheng, and F. Tao, “A Geometric Modeling Method for Digital Twin Workshop Based on Model Reuse.” Chinese invention patent application **CN202211405300.9**; publication **CN115619191A** (2023). [Google Patents](https://patents.google.com/patent/CN115619191A/en). **First Student Inventor and Primary Technical Contributor.**
 
-## Selected Honors and Technical Experience
+2. Q. Qi, **B. Xiao**, Y. Cheng, and F. Tao, “Digital Twin Exception Handling Method Based on Model Fusion.” Chinese invention patent application **CN202211405316.X**; publication **CN115630826A** (2023). [Google Patents](https://patents.google.com/patent/CN115630826A/en). **First Student Inventor and Primary Technical Contributor.**
 
-- **National Scholarship**, Ministry of Education of the People's Republic of China (2017–2018 academic year; awarded December 2018)
-- **Shanghai Intermediate-Level English Interpretation Certificate**, Shanghai International Studies University (June 2018)
-- Research and development experience with **Python, PyTorch, deep learning, graph neural networks, digital twin modeling, and industrial data analysis**
-- Contributor to the **Digital Twin Model Management System V1.0** (software copyright registration no. **2021R11S1937871**)
+**Software Copyright:** *Digital Twin Model Management System V1.0* (Reg. No. **2021R11S1937871**; [China Copyright Protection Center — registration lookup](https://register.ccopyright.com.cn/query.html)). **First Student Contributor, Lead Software Developer and Primary Code Contributor.**
 
 ## Contact
 
-For academic collaboration or postdoctoral opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/bin-xiao-b00195359/).
+For academic collaboration or postdoctoral opportunities, contact me at [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/bin-xiao-b00195359/).
 
 *All seven works are illustrated directly on this GitHub profile. For research works [5]–[7], both the motivation and overall framework diagrams appear in sequence. Core implementation repositories will be linked when publicly available. An academic CV and additional research materials may be added later.*
