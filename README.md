@@ -31,7 +31,7 @@ Shanghai, China · [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) · [Git
 
 ## Publications
 
-**Seven research works:** four peer-reviewed publications and three manuscripts under review. All graphical abstracts are displayed directly below their publication entries. Method-oriented code repositories will be linked here after they are created and cleared for public distribution.
+**Seven research works:** four peer-reviewed publications and three manuscripts under review. Graphical abstracts are displayed below their respective publications.
 
 ### Peer-Reviewed Publications
 
@@ -59,7 +59,7 @@ This research develops a multidimensional digital twin shop-floor framework that
 
 **Experimental context:** Aerospace product assembly shop-floor modeling, AGV behavior representation, and abnormality localization.
 
-**Core implementation:** Repository link will be added when the public code is available; this is not a claim of full experiment reproducibility.
+**Source Code:** [dt-shopfloor-abnormality-handling](https://github.com/XiaoBinSJTU/dt-shopfloor-abnormality-handling)
 
 **Paper:** [Read the published article](https://doi.org/10.1016/j.jii.2023.100492)
 
@@ -87,13 +87,13 @@ This work proposes proactive degradation-aware model update decisions and coordi
 
 **Experimental context:** Industrial belt conveyor bearing monitoring and multidimensional digital twin update validation.
 
-**Core implementation:** Repository link will be added when the public code is available; this is not a claim of full experiment reproducibility.
+**Source Code:** [dt-model-updating](https://github.com/XiaoBinSJTU/dt-model-updating)
 
 **Paper:** [Read the published article](https://doi.org/10.1016/j.aei.2026.104678)
 
 ### Manuscripts Under Review
 
-The following manuscripts have been submitted to the journals indicated; **they are not accepted or published**. JCR quartiles and impact factors refer only to the **target journals**.
+The following manuscripts are under review at the journals indicated.
 
 #### [5] Steady-state spatial guided spatiotemporal hypergraph data fusion for digital twin monitoring of industrial equipment under harsh operating conditions
 
@@ -109,7 +109,7 @@ This study addresses noisy monitoring in harsh steel-rolling environments throug
 
 **Experimental context:** φ650 hot-rolling main-drive motor and five public industrial datasets.
 
-**Core implementation:** Repository link will be added when the public code is available; this is not a claim of full experiment reproducibility.
+**Source Code:** [steady-state-hypergraph-fusion](https://github.com/XiaoBinSJTU/steady-state-hypergraph-fusion)
 
 #### [6] Digital twin spatiotemporal graph fusion modeling for low-quality multi-view equipment monitoring under harsh operating conditions
 
@@ -125,7 +125,7 @@ This work develops Digital Twin Spatiotemporal Graph Fusion Modeling (DTSGFM) fo
 
 **Experimental context:** Multi-view steel hot-rolling drives; controlled noise, drift, missing-view, and alignment degradation.
 
-**Core implementation:** Repository link will be added when the public code is available; this is not a claim of full experiment reproducibility.
+**Source Code:** [dtsgfm-multiview-monitoring](https://github.com/XiaoBinSJTU/dtsgfm-multiview-monitoring)
 
 #### [7] Digital twin hypergraph cascade modeling for end-effector slag removal decisions in steelmaking slag-handling robots
 
@@ -141,9 +141,7 @@ This study models how slag adhesion at a steelmaking robot end effector propagat
 
 **Experimental context:** Steelmaking slag-handling robot operations with offline and online decision evaluation.
 
-**Core implementation:** Repository link will be added when the public code is available; this is not a claim of full experiment reproducibility.
-
-*Journal indicators use values reported for October 8, 2026 and may change by reporting year. Under-review manuscripts should not be cited as published work. For public code repositories, raw industrial datasets and complete experimental outputs may be unavailable because of access restrictions. Graphical abstracts and selected research figures are overview materials, not code or reproducibility claims.*
+**Source Code:** [dt-hypergraph-slag-removal](https://github.com/XiaoBinSJTU/dt-hypergraph-slag-removal)
 
 ## Selected Research Project
 
@@ -174,5 +172,3 @@ Research on equipment digital twin modeling, model adaptation, automated model g
 ## Contact
 
 For academic collaboration or postdoctoral opportunities, contact me at [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/bin-xiao-b00195359/).
-
-*All seven works are illustrated directly on this GitHub profile. For research works [5]–[7], both the motivation and overall framework diagrams appear in sequence. Core implementation repositories will be linked when publicly available. An academic CV and additional research materials may be added later.*
