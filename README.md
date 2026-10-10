@@ -165,9 +165,9 @@ Research on equipment digital twin modeling, model adaptation, automated model g
 
 ## Patent Applications & Software Copyrights
 
-1. Q. Qi, **B. Xiao**, Y. Cheng, and F. Tao, “A Geometric Modeling Method for Digital Twin Workshop Based on Model Reuse.” Chinese invention patent application **CN202211405300.9**; publication **CN115619191A** (2023). [Google Patents](https://patents.google.com/patent/CN115619191A/en). **First Student Inventor and Primary Technical Contributor.**
+1. Q. Qi, **B. Xiao**, Y. Cheng, and F. Tao, “A Geometric Modeling Method for Digital Twin Workshop Based on Model Reuse.” Chinese invention patent application **CN202211405300.9** (2023). [Google Patents](https://patents.google.com/patent/CN115619191A/en). **First Student Inventor and Primary Technical Contributor.**
 
-2. Q. Qi, **B. Xiao**, Y. Cheng, and F. Tao, “Digital Twin Exception Handling Method Based on Model Fusion.” Chinese invention patent application **CN202211405316.X**; publication **CN115630826A** (2023). [Google Patents](https://patents.google.com/patent/CN115630826A/en). **First Student Inventor and Primary Technical Contributor.**
+2. Q. Qi, **B. Xiao**, Y. Cheng, and F. Tao, “Digital Twin Exception Handling Method Based on Model Fusion.” Chinese invention patent application **CN202211405316.X** (2023). [Google Patents](https://patents.google.com/patent/CN115630826A/en). **First Student Inventor and Primary Technical Contributor.**
 
 **Software Copyright:** *Digital Twin Model Management System V1.0* (Reg. No. **2021R11S1937871**; [China Copyright Protection Center — registration lookup](https://register.ccopyright.com.cn/query.html)). **First Student Contributor, Lead Software Developer and Primary Code Contributor.**
 
