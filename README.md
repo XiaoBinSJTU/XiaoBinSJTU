@@ -4,15 +4,9 @@
 
 Shanghai, China · [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) · [GitHub](https://github.com/XiaoBinSJTU) · [LinkedIn](https://www.linkedin.com/in/bin-xiao-b00195359/)
 
-[Research Profile](#research-profile) · [Education](#education) · [Publications](#publications) · [Research Projects](#research-projects) · [Patents & Software Copyrights](#patent-applications--software-copyrights)
+[Research Profile](#research-profile) · [Education](#education) · [Publications](#publications) · [Selected Research Projects](#selected-research-project) · [Patents & Software Copyrights](#patent-applications--software-copyrights)
 
 ---
-
-## About Me
-
-I am a Ph.D. researcher in Mechanical Engineering at **Shanghai Jiao Tong University**, expecting to graduate in **March 2027**. I earned a Master's degree in Control Engineering from **Beihang University** and a Bachelor's degree in Automation from **Anhui Polytechnic University**.
-
-I am seeking **postdoctoral research opportunities starting in the second half of 2027**, primarily in the **United States**, while also considering opportunities in the **United Kingdom**. I welcome international academic collaborations.
 
 ## Research Profile
 
@@ -151,7 +145,7 @@ This study models how slag adhesion at a steelmaking robot end effector propagat
 
 *Journal indicators use values reported for October 8, 2026 and may change by reporting year. Under-review manuscripts should not be cited as published work. For public code repositories, raw industrial datasets and complete experimental outputs may be unavailable because of access restrictions. Graphical abstracts and selected research figures are overview materials, not code or reproducibility claims.*
 
-## Research Projects
+## Selected Research Project
 
 **National Key Research and Development Program of China** | Jan 2021 – Dec 2023  
 *Theory and Methods for Accurate Modeling of Intelligent Production Processes Based on Digital Twins* (Project No. **2020YFB1708400**)  
