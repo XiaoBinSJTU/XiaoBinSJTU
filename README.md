@@ -33,7 +33,7 @@ Shanghai, China · [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) · [Git
 
 **Seven research works:** four peer-reviewed publications and three manuscripts under review. Graphical abstracts are displayed below their respective publications.
 
-### Peer-Reviewed Publications
+### Peer-Reviewed Publications (4)
 
 #### [1] Digital twin modeling
 
@@ -91,7 +91,7 @@ This work proposes proactive degradation-aware model update decisions and coordi
 
 **Paper:** [Read the published article](https://doi.org/10.1016/j.aei.2026.104678)
 
-### Manuscripts Under Review
+### Manuscripts Under Review (4)
 
 The following manuscripts are under review at the journals indicated.
 
@@ -142,6 +142,26 @@ This study models how slag adhesion at a steelmaking robot end effector propagat
 **Experimental context:** Steelmaking slag-handling robot operations with offline and online decision evaluation.
 
 **Source Code:** [dt-hypergraph-slag-removal](https://github.com/XiaoBinSJTU/dt-hypergraph-slag-removal)
+
+### [8] Proximal policy optimization for slag-removal timing in steelmaking slag-handling robots guided by DeepSeek-R1 fine-tuned under temporal hypergraph constraints
+
+**B. Xiao**, et al. *Manuscript submitted to Journal of Manufacturing Systems*.  
+**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 14.9
+
+<img src="assets/graphical-abstracts/08-jms-slag-removal-motivation.png" width="900">
+
+<img src="assets/graphical-abstracts/08-jms-slag-removal-framework.png" width="900">
+
+<img src="assets/graphical-abstracts/08-jms-slag-removal-state-transition.png" width="900">
+
+<img src="assets/graphical-abstracts/08-jms-slag-removal-ppo.png" width="900">
+
+**Research Highlights**  
+This work studies slag-removal timing optimization for steelmaking slag-handling robots under cyclic slag crust accumulation. It develops a physics-constrained temporal hypergraph Transformer to model load propagation and robot state transitions, then fine-tunes DeepSeek-R1 under temporal hypergraph constraints to generate reward revision signals for PPO-based policy learning. The overall framework links multisource monitoring, state prediction, and timing optimization to balance downtime cost and operational risk.
+
+**Experimental context:** Electric arc furnace deslagging robot at an East China steel plant; multisource monitoring, slag-cleaning work orders, cross-cycle state prediction, and PPO-based timing optimization validated through operational replay and five public datasets.
+
+**Code:** Coming soon
 
 ## Selected Research Project
 
