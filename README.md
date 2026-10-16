@@ -9,13 +9,9 @@ Shanghai, China · [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) · [Git
 ---
 
 ## Research Profile
-
 1. **Digital Twin-Based Model Updating:** Model reuse and coordinated updates of mechanism, geometric, and algorithm models.
-
 2. **Physics-Guided Hypergraph Learning:** Multisensor fusion and physically constrained spatiotemporal state-transition modeling under harsh conditions.
-
 3. **PHM-Oriented Equipment Monitoring:** Anomaly detection, health assessment, degradation prediction, and intelligent maintenance.
-
 4. **LLM-Guided Robotic Decision Optimization:** Hypergraph-constrained DeepSeek-R1 reward revision and PPO-based slag-removal timing optimization.
 
 ## Education
