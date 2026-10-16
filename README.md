@@ -160,7 +160,7 @@ This work studies slag-removal timing optimization for steelmaking slag-handling
 
 **Experimental context:** Electric arc furnace deslagging robot at an East China steel plant; multisource monitoring, slag-cleaning work orders, cross-cycle state prediction, and PPO-based timing optimization validated through operational replay and five public datasets.
 
-**Code:** Coming soon
+**Code:** [hg-r1-ppo-core](https://github.com/XiaoBinSJTU/hg-r1-ppo-core)
 
 ## Selected Research Project
 
