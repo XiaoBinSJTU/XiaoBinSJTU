@@ -165,21 +165,21 @@ This work studies slag-removal timing optimization for steelmaking slag-handling
 
 ## Selected Research Project
 
-**National Key Research and Development Program of China** | Jan 2021 – Dec 2023  
-*Theory and Methods for Accurate Modeling of Intelligent Production Processes Based on Digital Twins* (Project No. **2020YFB1708400**)  
-Developed event-triggered anomaly detection, labeled Petri net-based abnormality detection, and web-based digital twin model assembly and management capabilities.
-
-**MCC Baosteel Collaboration** | Feb 2023 – Dec 2023  
-*Intelligent Maintenance of Belt Conveyor Systems*  
-Investigated bearing dynamics, physics-based numerical simulation, multi-sensor fusion, and intelligent condition monitoring.
+**National Natural Science Foundation of China (NSFC), General Program** | Jan 2027 – 2030  
+*Digital Twin Modeling Methods and Automated Model Generation for Equipment Anomaly Monitoring* (Project No. **52675657**)  
+Research focus: equipment digital twin modeling, automated model generation, adaptive model updating, and robust anomaly monitoring.
 
 **China Mobile Collaboration** | Jan 2024 – May 2024  
 *Industrial Metaverse and Digital Twin Modeling*  
 Worked on neural rendering, cross-modal semantic alignment, transfer learning, and industrial PHM interfaces.
 
-**National Natural Science Foundation of China (NSFC) General Program** | From Jan 2024  
-*Digital Twin Modeling Methods and Automated Model Generation for Equipment Anomaly Monitoring*  
-Research on equipment digital twin modeling, model adaptation, automated model generation, and robust anomaly monitoring.
+**MCC Baosteel Collaboration** | Feb 2023 – Dec 2023  
+*Intelligent Maintenance of Belt Conveyor Systems*  
+Investigated bearing dynamics, physics-based numerical simulation, multi-sensor fusion, and intelligent condition monitoring.
+
+**National Key Research and Development Program of China** | Jan 2021 – Dec 2023  
+*Theory and Methods for Accurate Modeling of Intelligent Production Processes Based on Digital Twins* (Project No. **2020YFB1708400**)  
+Developed event-triggered anomaly detection, labeled Petri net-based abnormality detection, and web-based digital twin model assembly and management capabilities.
 
 ## Patent Applications & Software Copyrights
 
