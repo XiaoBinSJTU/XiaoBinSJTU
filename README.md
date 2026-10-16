@@ -148,13 +148,13 @@ This study models how slag adhesion at a steelmaking robot end effector propagat
 **B. Xiao**, et al. *Manuscript submitted to Journal of Manufacturing Systems*.  
 **First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 14.9
 
-<img src="assets/graphical-abstracts/08-jms-slag-removal-motivation.png" width="900">
+<img src="assets/graphical-abstracts/08-jms-slag-removal-motivation.svg" width="900">
 
-<img src="assets/graphical-abstracts/08-jms-slag-removal-framework.png" width="900">
+<img src="assets/graphical-abstracts/08-jms-slag-removal-framework.svg" width="900">
 
-<img src="assets/graphical-abstracts/08-jms-slag-removal-state-transition.png" width="900">
+<img src="assets/graphical-abstracts/08-jms-slag-removal-state-transition.svg" width="900">
 
-<img src="assets/graphical-abstracts/08-jms-slag-removal-ppo.png" width="900">
+<img src="assets/graphical-abstracts/08-jms-slag-removal-ppo.svg" width="900">
 
 **Research Highlights**  
 This work studies slag-removal timing optimization for steelmaking slag-handling robots under cyclic slag crust accumulation. It develops a physics-constrained temporal hypergraph Transformer to model load propagation and robot state transitions, then fine-tunes DeepSeek-R1 under temporal hypergraph constraints to generate reward revision signals for PPO-based policy learning. The overall framework links multisource monitoring, state prediction, and timing optimization to balance downtime cost and operational risk.
