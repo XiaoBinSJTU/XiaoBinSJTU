@@ -143,7 +143,7 @@ This study models how slag adhesion at a steelmaking robot end effector propagat
 
 **Source Code:** [dt-hypergraph-slag-removal](https://github.com/XiaoBinSJTU/dt-hypergraph-slag-removal)
 
-### [8] Proximal policy optimization for slag-removal timing in steelmaking slag-handling robots guided by DeepSeek-R1 fine-tuned under temporal hypergraph constraints
+####  [8] Proximal policy optimization for slag-removal timing in steelmaking slag-handling robots guided by DeepSeek-R1 fine-tuned under temporal hypergraph constraints
 
 **B. Xiao**, et al. *Manuscript submitted to Journal of Manufacturing Systems*.  
 **First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 14.9
