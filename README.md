@@ -1,4 +1,4 @@
-# Bin Xiao
+<img width="257" height="70" alt="image" src="https://github.com/user-attachments/assets/5fcfccc3-8298-41cc-b27d-b5791a3ac7b9" /># Bin Xiao
 
 **Ph.D. Researcher in Mechanical Engineering | Shanghai Jiao Tong University**
 
@@ -37,7 +37,7 @@ Shanghai, China · [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) · [Git
 #### [1] Digital twin modeling
 
 F. Tao, **B. Xiao**, Q. Qi, J. Cheng, and P. Ji. *Journal of Manufacturing Systems*, 64, 372–389 (2022).  
-**Second author (first student author)** · JCR Q1 · Reported IF: 14.9
+**Second author (first student author)** · JCR Q1 · Reported IF: 14.9 · Citations: 1740
 
 ![Graphical Abstract 1](assets/graphical-abstracts/01-digital-twin-modeling.svg)
 
@@ -49,7 +49,7 @@ This review examines the modeling foundations that enable digital twins to repre
 #### [2] Multi-dimensional modeling and abnormality handling of digital twin shop floor
 
 **B. Xiao**, Q. Qi, and F. Tao. *Journal of Industrial Information Integration*, 35, 100492 (2023).  
-**First author** · JCR Q1 · Reported IF: 11.2
+**First author** · JCR Q1 · Reported IF: 11.2 · Citations: 39
 
 ![Graphical Abstract 2](assets/graphical-abstracts/02-shopfloor-modeling-abnormality.svg)
 
@@ -65,7 +65,7 @@ This research develops a multidimensional digital twin shop-floor framework that
 #### [3] Digital twin-driven prognostics and health management for industrial assets
 
 **B. Xiao**, J. Zhong, X. Bao, L. Chen, J. Bao, and Y. Zheng. *Scientific Reports*, 14, 13443 (2024).  
-**First author** · JCR Q1 · Reported IF: 4.9
+**First author** · JCR Q1 · Reported IF: 4.9 · Citations: 85
 
 ![Graphical Abstract 3](assets/graphical-abstracts/03-dt-phm-review.svg)
 
@@ -77,7 +77,7 @@ This review systematically organizes digital twin-driven prognostics and health 
 #### [4] Model updating approach for digital twin-driven industrial equipment monitoring
 
 **B. Xiao**, L. Chen, X. Zhou, J. Zhong, Z. Wang, S. Qiu, and Y. Zheng. *Advanced Engineering Informatics*, 74, 104678 (2026).  
-**First author** · JCR Q1 · Reported IF: 11.2
+**First author** · JCR Q1 · Reported IF: 11.2 · Citations: 1
 
 ![Graphical Abstract 4](assets/graphical-abstracts/04-dt-model-updating.svg)
 
