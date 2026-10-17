@@ -37,7 +37,7 @@ Shanghai, China · [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) · [Git
 #### [1] Digital twin modeling
 
 F. Tao, **B. Xiao**, Q. Qi, J. Cheng, and P. Ji. *Journal of Manufacturing Systems*, 64, 372–389 (2022).  
-**Second author (first student author)** · JCR Q1 · Reported IF: 14.9 · Citations: 1740
+**Second author (first student author)** · JCR Q1 · Reported IF: 14.9 · Citations: 1,743
 
 ![Graphical Abstract 1](assets/graphical-abstracts/01-digital-twin-modeling.svg)
 
