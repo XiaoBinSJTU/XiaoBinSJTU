@@ -1,4 +1,4 @@
-<img width="257" height="70" alt="image" src="https://github.com/user-attachments/assets/5fcfccc3-8298-41cc-b27d-b5791a3ac7b9" /># Bin Xiao
+# Bin Xiao
 
 **Ph.D. Researcher in Mechanical Engineering | Shanghai Jiao Tong University**
 
