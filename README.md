@@ -9,10 +9,10 @@ Shanghai, China · [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) · [Git
 ---
 
 ## Research Profile
-1. **Digital Twin-Based Model Updating:** Model reuse and coordinated updates of mechanism, geometric, and algorithm models.
+1. **Physics-Guided Digital Twin Self-Updating:** Model reuse, adaptive calibration, and hypergraph-constrained parameter and knowledge-rule updates.
 2. **Physics-Guided Hypergraph Learning:** Multisensor fusion and physically constrained spatiotemporal state-transition modeling under harsh conditions.
 3. **PHM-Oriented Equipment Monitoring:** Anomaly detection, health assessment, degradation prediction, and intelligent maintenance.
-4. **LLM-Guided Robotic Decision Optimization:** Hypergraph-constrained DeepSeek-R1 reward revision and PPO-based slag-removal timing optimization.
+4. **LLM-Guided Robotic Maintenance:** DeepSeek-R1-constrained graph editing, reward revision, and PPO-based slag-removal timing optimization.
 
 ## Education
 
@@ -30,7 +30,7 @@ Shanghai, China · [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) · [Git
 
 ## Publications
 
-**Seven research works:** four peer-reviewed publications and three manuscripts under review. Graphical abstracts are displayed below their respective publications.
+**Nine research works:** four peer-reviewed publications and five manuscripts under review. Research figures are displayed with their corresponding publications where available.
 
 ### Peer-Reviewed Publications (4)
 
@@ -90,7 +90,7 @@ This work proposes proactive degradation-aware model update decisions and coordi
 
 **Paper:** [Read the published article](https://doi.org/10.1016/j.aei.2026.104678)
 
-### Manuscripts Under Review (4)
+### Manuscripts Under Review (5)
 
 The following manuscripts are under review at the journals indicated.
 
@@ -161,6 +161,17 @@ This work studies slag-removal timing optimization for steelmaking slag-handling
 **Experimental context:** Electric arc furnace deslagging robot at an East China steel plant; multisource monitoring, slag-cleaning work orders, cross-cycle state prediction, and PPO-based timing optimization validated through operational replay and five public datasets.
 
 **Code:** [hg-r1-ppo-core](https://github.com/XiaoBinSJTU/hg-r1-ppo-core)
+
+
+#### [9] Digital twin self-updating framework for steelmaking slag-handling robots driven by DeepSeek-R1 fine-tuned under physical hypergraph constraints
+
+**B. Xiao**, et al. *Manuscript submitted to Computers in Industry*.  
+**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 10.0
+
+**Research Highlights**  
+This study develops a physics-constrained digital twin self-updating framework for steelmaking slag-handling robots after slag removal. A temporal hypergraph Transformer localizes joint-torque mismatches, while DeepSeek-R1 fine-tuned through DAPT, SFT, and Pre-DPO proposes constrained graph edits using confirmed work orders. R-Tuning preserves historical predictions, and Jacobian checks and independent event replay validate synchronized updates of twin parameters and knowledge rules. Steelworks validation achieved a joint-torque prediction RMSE of 146 N·m with only 0.7% historical error increase.
+
+**Experimental context:** EA-01 six-joint electric arc furnace slag-handling robot in an East China steelworks; 18-channel monitoring, 186 confirmed slag-removal work orders, 4,952-cycle sequential replay, and five public benchmark datasets.
 
 ## Selected Research Project
 
