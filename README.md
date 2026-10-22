@@ -32,11 +32,11 @@ Shanghai, China · [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) · [Git
 
 **Nine research works:** four peer-reviewed publications and five manuscripts under review. Research figures are displayed with their corresponding publications where available.
 
-![Selected SCI publications and intellectual property](assets/overview/01-selected-publications.svg)
+![Selected SCI publications and intellectual property](assets/graphical-abstracts/overview/01-selected-publications.svg)
 
-![Digital twin modeling theory and shop-floor research](assets/overview/02-digital-twin-research.svg)
+![Digital twin modeling theory and shop-floor research](assets/graphical-abstracts/overview/02-digital-twin-research.svg)
 
-![PhD research framework and case studies](assets/overview/03-phd-research-framework.svg)
+![PhD research framework and case studies](assets/graphical-abstracts/overview/03-phd-research-framework.svg)
 
 ### Peer-Reviewed Publications (4)
 
