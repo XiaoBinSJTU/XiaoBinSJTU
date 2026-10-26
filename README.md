@@ -174,6 +174,10 @@ This work studies slag-removal timing optimization for steelmaking slag-handling
 **B. Xiao**, et al. *Manuscript submitted to Computers in Industry*.  
 **First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 10.0
 
+<img src="assets/graphical-abstracts/09-CII-DT-self-updating-motivation.svg" width="900">
+<img src="assets/graphical-abstracts/09-CII-DT-self-updating-framework.svg" width="900">
+
+
 **Research Highlights**  
 This study develops a physics-constrained digital twin self-updating framework for steelmaking slag-handling robots after slag removal. A temporal hypergraph Transformer localizes joint-torque mismatches, while DeepSeek-R1 fine-tuned through DAPT, SFT, and Pre-DPO proposes constrained graph edits using confirmed work orders. R-Tuning preserves historical predictions, and Jacobian checks and independent event replay validate synchronized updates of twin parameters and knowledge rules. Steelworks validation achieved a joint-torque prediction RMSE of 146 N·m with only 0.7% historical error increase.
 
