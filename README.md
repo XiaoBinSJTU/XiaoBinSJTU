@@ -85,7 +85,7 @@ This review systematically organizes digital twin-driven prognostics and health 
 **B. Xiao**, L. Chen, X. Zhou, J. Zhong, Z. Wang, S. Qiu, and Y. Zheng. *Advanced Engineering Informatics*, 74, 104678 (2026).  
 **First author** · JCR Q1 · Reported IF: 11.2 · Citations: 1
 
-![Graphical Abstract 4](assets/graphical-abstracts/04-dt-model-updating.svg)
+![Graphical Abstract 4](assets/graphical-abstracts/04-dt-model-updating.svg) 
 
 **Research Highlights**  
 This work proposes proactive degradation-aware model update decisions and coordinated updates of digital twin mechanism, geometric, and algorithm models. Global tracking degradation and local mechanism changes jointly trigger updates, while geometric corrections and retrained algorithm components maintain model consistency. In a belt conveyor bearing case, the approach reported 24.7-hour early warning, 40% lower tracking error, and 96% fault-detection AUC.
