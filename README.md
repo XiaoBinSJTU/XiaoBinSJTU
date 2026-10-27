@@ -107,7 +107,7 @@ The following manuscripts are under review at the journals indicated.
 
 ![Graphical Abstract 5 — Motivation](assets/graphical-abstracts/05-steady-state-mssp-challenges.svg)
 
-![Graphical Abstract 5 — Overall Framework](assets/graphical-abstracts/05-steady-state-mssp-framework.svg)
+![Graphical Abstract 5 — Overall Framework](assets/graphical-abstracts/05-steady-state-mssp-framework.svg) 
 
 **Research Highlights**  
 This study addresses noisy monitoring in harsh steel-rolling environments through steady-state spatial guided spatiotemporal hypergraph fusion. Heterogeneous sensors and physically grounded hyperedges encode fault coordination, subsystem propagation, and response coherence. Spatial topology features guide cross-attention screening and residual correction of short- and long-term temporal signals. Experiments on rolling-mill drives and public datasets evaluate anomaly monitoring robustness against transient disturbances.
