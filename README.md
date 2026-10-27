@@ -174,7 +174,7 @@ This work studies slag-removal timing optimization for steelmaking slag-handling
 **B. Xiao**, et al. *Manuscript submitted to Computers in Industry*.  
 **First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 10.0
 
-<img src="assets/graphical-abstracts/09-CII-DT-self-updating-motivation.svg" width="900">
+<img src="assets/graphical-abstracts/09-CIl-DT-self-updating-motivation.svg" width="900">
 <img src="assets/graphical-abstracts/09-CII-DT-self-updating-framework.svg" width="900">
 
 
