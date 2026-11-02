@@ -30,7 +30,7 @@ Shanghai, China · [xiaobinsjtu@gmail.com](mailto:xiaobinsjtu@gmail.com) · [Git
 
 ## Publications
 
-**Nine research works:** four peer-reviewed publications and five manuscripts under review. Research figures are displayed with their corresponding publications where available.
+**Nine research works:** four peer-reviewed publications and three manuscripts under review. Research figures are displayed with their corresponding publications where available.
 
 ![Selected SCI publications and intellectual property](assets/graphical-abstracts/overview/01-selected-publications.svg)
 
