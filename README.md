@@ -103,7 +103,7 @@ The following manuscripts are under review at the journals indicated.
 #### [5] Steady-state spatial guided spatiotemporal hypergraph data fusion for digital twin monitoring of industrial equipment under harsh operating conditions
 
 **B. Xiao**, L. Chen, Y. Zheng, S. Qiu, and J. Bao. *Manuscript submitted to Mechanical Systems and Signal Processing*.  
-**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 10.2
+**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 12.3 · Target journal: JCR Q1 · Reported IF: 10.2
 
 ![Graphical Abstract 5 — Motivation](assets/graphical-abstracts/05-steady-state-mssp-challenges.svg)
 
