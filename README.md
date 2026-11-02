@@ -96,7 +96,7 @@ This work proposes proactive degradation-aware model update decisions and coordi
 
 **Paper:** [Read the published article](https://doi.org/10.1016/j.aei.2026.104678)
 
-### Manuscripts Under Review (5)
+### Manuscripts Under Review (3)
 
 The following manuscripts are under review at the journals indicated.
 
@@ -132,56 +132,6 @@ This work develops Digital Twin Spatiotemporal Graph Fusion Modeling (DTSGFM) fo
 
 **Source Code:** [dtsgfm-multiview-monitoring](https://github.com/XiaoBinSJTU/dtsgfm-multiview-monitoring)
 
-#### [7] Digital twin hypergraph cascade modeling for end-effector slag removal decisions in steelmaking slag-handling robots
-
-**B. Xiao**, L. Chen, Y. Zheng, and J. Bao. *Manuscript submitted to Robotics and Computer-Integrated Manufacturing*.  
-**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 12.3
-
-![Graphical Abstract 7 — Motivation](assets/graphical-abstracts/07-rcim-robot-degradation.svg)
-
-![Graphical Abstract 7 — Overall Framework](assets/graphical-abstracts/07-rcim-cascade-framework.svg)
-
-**Research Highlights**  
-This study models how slag adhesion at a steelmaking robot end effector propagates into multilevel equipment-state changes. At the part level, multi-view hypergraphs fuse sensor responses; at the module level, physics-semantic hypergraphs propagate coupled states; at the system level, diagnostic knowledge hypergraphs produce traceable slag-removal decisions. The reported results include 91.2% offline decision accuracy and 92.7% online event-level F1.
-
-**Experimental context:** Steelmaking slag-handling robot operations with offline and online decision evaluation.
-
-**Source Code:** [dt-hypergraph-slag-removal](https://github.com/XiaoBinSJTU/dt-hypergraph-slag-removal)
-
-####  [8] Proximal policy optimization for slag-removal timing in steelmaking slag-handling robots guided by DeepSeek-R1 fine-tuned under temporal hypergraph constraints
-
-**B. Xiao**, et al. *Manuscript submitted to Journal of Manufacturing Systems*.  
-**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 14.9
-
-<img src="assets/graphical-abstracts/08-jms-slag-removal-motivation.svg" width="900">
-
-<img src="assets/graphical-abstracts/08-jms-slag-removal-framework.svg" width="900">
-
-<img src="assets/graphical-abstracts/08-jms-slag-removal-state-transition.svg" width="900">
-
-<img src="assets/graphical-abstracts/08-jms-slag-removal-ppo.svg" width="900">
-
-**Research Highlights**  
-This work studies slag-removal timing optimization for steelmaking slag-handling robots under cyclic slag crust accumulation. It develops a physics-constrained temporal hypergraph Transformer to model load propagation and robot state transitions, then fine-tunes DeepSeek-R1 under temporal hypergraph constraints to generate reward revision signals for PPO-based policy learning. The overall framework links multisource monitoring, state prediction, and timing optimization to balance downtime cost and operational risk.
-
-**Experimental context:** Electric arc furnace deslagging robot at an East China steel plant; multisource monitoring, slag-cleaning work orders, cross-cycle state prediction, and PPO-based timing optimization validated through operational replay and five public datasets.
-
-**Code:** [hg-r1-ppo-core](https://github.com/XiaoBinSJTU/hg-r1-ppo-core)
-
-
-#### [9] Digital twin self-updating framework for steelmaking slag-handling robots driven by DeepSeek-R1 fine-tuned under physical hypergraph constraints
-
-**B. Xiao**, et al. *Manuscript submitted to Computers in Industry*.  
-**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 10.0
-
-<img src="assets/graphical-abstracts/09-CIl-DT-self-updating-motivation.svg" width="900">
-<img src="assets/graphical-abstracts/09-CII-DT-self-updating-framework.svg" width="900">
-
-
-**Research Highlights**  
-This study develops a physics-constrained digital twin self-updating framework for steelmaking slag-handling robots after slag removal. A temporal hypergraph Transformer localizes joint-torque mismatches, while DeepSeek-R1 fine-tuned through DAPT, SFT, and Pre-DPO proposes constrained graph edits using confirmed work orders. R-Tuning preserves historical predictions, and Jacobian checks and independent event replay validate synchronized updates of twin parameters and knowledge rules. Steelworks validation achieved a joint-torque prediction RMSE of 146 N·m with only 0.7% historical error increase.
-
-**Experimental context:** EA-01 six-joint electric arc furnace slag-handling robot in an East China steelworks; 18-channel monitoring, 186 confirmed slag-removal work orders, 4,952-cycle sequential replay, and five public benchmark datasets.
 
 ## Selected Research Project
 
