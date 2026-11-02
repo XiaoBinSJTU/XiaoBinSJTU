@@ -133,6 +133,22 @@ This work develops Digital Twin Spatiotemporal Graph Fusion Modeling (DTSGFM) fo
 **Source Code:** [dtsgfm-multiview-monitoring](https://github.com/XiaoBinSJTU/dtsgfm-multiview-monitoring)
 
 
+#### [7] Digital twin hypergraph cascade modeling for end-effector slag removal decisions in steelmaking slag-handling robots
+
+**B. Xiao**, L. Chen, Y. Zheng, and J. Bao. *Manuscript submitted to Robotics and Computer-Integrated Manufacturing (RCIM).*  
+**First author** · **Under Review**
+
+![Graphical Abstract 7 — Motivation](assets/graphical-abstracts/07-rcim-robot-degradation.svg)
+
+![Graphical Abstract 7 — Overall Framework](assets/graphical-abstracts/07-rcim-cascade-framework.svg)
+
+**Research Highlights**  
+This work develops a traceable digital-twin method for slag-removal decisions in steelmaking slag-handling robots. Part-level multi-view hypergraphs combine sensor-response similarity, nonlinear coupling, and directional information transfer to identify operating states and sensor contributions. At the module level, SysML-embedded physical semantics constrain state propagation along the robot structure; at the system level, maintenance knowledge hypergraphs connect diagnosed states and propagated impacts to slag-removal responses while preserving the reasoning path. Validation at a steel plant in eastern China achieved 91.2±1.0% offline decision accuracy and a 92.7% online event-level F1-score.
+
+**Experimental context:** Electric arc furnace slag-handling robot; 2,476 offline operating cycles and 4,952 online cycles.
+
+**Source Code:** [dt-hypergraph-slag-removal](https://github.com/XiaoBinSJTU/dt-hypergraph-slag-removal)
+
 ## Selected Research Project
 
 **National Natural Science Foundation of China (NSFC), General Program** | Jan 2027 – 2030  
