@@ -136,7 +136,7 @@ This work develops Digital Twin Spatiotemporal Graph Fusion Modeling (DTSGFM) fo
 #### [7] Digital twin hypergraph cascade modeling for end-effector slag removal decisions in steelmaking slag-handling robots
 
 **B. Xiao**, L. Chen, Y. Zheng, and J. Bao. *Manuscript submitted to Robotics and Computer-Integrated Manufacturing (RCIM).*  
-**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 12.3
+**First author** · **Under Review** · Target journal: JCR Q1 · Reported IF: 12.3 
 
 ![Graphical Abstract 7 — Motivation](assets/graphical-abstracts/07-rcim-robot-degradation.svg)
 
